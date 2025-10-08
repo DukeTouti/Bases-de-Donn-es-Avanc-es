@@ -1,0 +1,43 @@
+--------------------
+MAIN FILE TO EXECUTE
+--------------------
+@ C:\app\oelha\product\21c\dbhomeXE\demo\schema\human_resources\hr_main.sql
+
+---------------  
+VALUES TO ENTER
+---------------
+
+VALUE 1 : hr
+----------------------
+----------------------
+VALUE 2 : users
+----------------------
+----------------------
+VALUE 3 : temp
+----------------------
+--------------------------------------------------
+VALUE 4 (Your Oracle DB Password) : oracleUIR2025@
+--------------------------------------------------
+--------------------------------------------------
+VALUE 5 : $ORACLE_HOME/demo/schema/log
+--------------------------------------------------
+--------------------------------------------------
+VALUE 6 : localhost:1521/XEPDB1
+--------------------------------------------------
+
+----------------
+FILES TO EXECUTE
+----------------
+--------------------------------------------------------------------------------------------
+
+@ C:\app\oelha\product\21c\dbhomeXE\demo\schema\human_resources\human_resources\hr_cre.sql
+
+@ C:\app\oelha\product\21c\dbhomeXE\demo\schema\human_resources\human_resources\hr_popul.sql
+
+@ C:\app\oelha\product\21c\dbhomeXE\demo\schema\human_resources\human_resources\hr_idx.sql
+
+@ C:\app\oelha\product\21c\dbhomeXE\demo\schema\human_resources\human_resources\hr_code.sql
+
+@ C:\app\oelha\product\21c\dbhomeXE\demo\schema\human_resources\human_resources\hr_comnt.sql
+
+@ C:\app\oelha\product\21c\dbhomeXE\demo\schema\human_resources\human_resources\hr_analz.sql
